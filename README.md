@@ -82,18 +82,18 @@ Evaluation techniques used:
 
 ### Application Interface
 
-![App Screenshot](images/app_screenshot.png)
+![App Screenshot](https://github.com/itspawarshreya/AI-Based-Crop-Disease-Detection-and-Farmer-Recommendation-System/blob/main/app_screenshot.png)
 
 ### Accuracy Graph
 
-![Accuracy Graph](images/accuracy_graph.png)
+![Accuracy Graph](https://github.com/itspawarshreya/AI-Based-Crop-Disease-Detection-and-Farmer-Recommendation-System/blob/main/accuracy_graph.png)
 
 ### Loss Graph
 
-![Loss Graph](images/loss_graph.png)
+![Loss Graph](https://github.com/itspawarshreya/AI-Based-Crop-Disease-Detection-and-Farmer-Recommendation-System/blob/main/loss_graph.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/itspawarshreya/AI-Based-Crop-Disease-Detection-and-Farmer-Recommendation-System/blob/main/confusion_matrix.png)
 
 ---
